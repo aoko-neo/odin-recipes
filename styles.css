@@ -1,0 +1,27 @@
+body {
+    background-color: #ab987a;
+}
+
+
+.head {
+    color: #0f1626;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.three {
+    color: #0f1626;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.food,
+.cook,
+.part {
+    color: hwb(240 1% 85%);
+    font-size: 20px;
+}
+
+.back {
+    color: hsl(17, 98%, 33%);
+}

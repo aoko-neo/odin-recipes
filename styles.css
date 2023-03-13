@@ -1,16 +1,16 @@
 body {
-    background-color: #ab987a;
+    background-image: url(images/cocktail2.jpg);
 }
 
 
 .head {
-    color: #0f1626;
+    color: #CF0A0A;
     font-size: 50px;
     font-weight: 700;
 }
 
 .three {
-    color: #0f1626;
+    color: #CF0A0A;
     font-size: 30px;
     font-weight: 700;
 }
@@ -18,10 +18,10 @@ body {
 .food,
 .cook,
 .part {
-    color: hwb(240 1% 85%);
+    color: #FFF;
     font-size: 20px;
 }
 
 .back {
-    color: hsl(17, 98%, 33%);
+    color: hsl(19, 97%, 44%);
 }
